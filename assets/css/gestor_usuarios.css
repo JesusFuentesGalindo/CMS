@@ -1,0 +1,21 @@
+#lista_usuarios .card-header .card-title{
+    padding-top:4px;
+}
+
+#lista_usuarios .card-header .btn{
+    margin-left:20px;
+}
+
+#profile #btn_edit{
+    cursor:pointer;
+}
+
+#link_gestor_usuarios{
+    color:green;
+}
+@media (min-width:768px){
+    
+    #tbl_lista_usuarios{
+        width:100%;
+    }
+}
